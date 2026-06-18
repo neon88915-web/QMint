@@ -3,8 +3,6 @@ This is a Fork of the Quake Game engine But Aims to Boost FPS and make the engin
 This is the complete source code for winquake, glquake, quakeworld, and 
 glquakeworld.
 
-![Alternative description text](MintengineQLogio.png)
-
 The projects have been tested with visual C++ 6.0, but masm is also required 
 to build the assembly language files.  It is possible to change a #define and 
 build with only C code, but the software rendering versions lose almost half 
